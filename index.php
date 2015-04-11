@@ -1,6 +1,6 @@
 <?php
 $client_id = 'your_client_id';
-$redirect_uri = 'oauth.php';
+$redirect_uri = 'path_to_oauth_dot_php';
 ?>
 
 <html>
