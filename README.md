@@ -1,7 +1,7 @@
 # php_google_contact_importer
 Import Google/GMail account's owner and contacts using OAuth 2.0, Google Contacts Data API 3.0 and PHP. 
 The code has been enhanced to import the email and full name of the account's owner.
-Its advantage over other existing contact importers is fully detailed in this LinkedIn article: http://www.linkedin.com/pulse/retrieving-account-owner-info-google-contacts-via-oauth2-kouajiep.
+Its advantage over other existing contact importers is fully detailed in this LinkedIn article: http://codijuana.blogspot.com/2015/04/retrieving-google-account-owner-and.html
 
 Requirements:
 - php 5.+
